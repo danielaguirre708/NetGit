@@ -1,0 +1,6 @@
+aiohttp==3.6.2
+asyncio==3.4.3
+pandas==0.24.1
+psycopg2==2.8.5
+typing==3.7.4.1
+datetime==4.3
